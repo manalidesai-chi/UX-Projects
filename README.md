@@ -1,6 +1,6 @@
 # UX-Projects
 
-Chi77 with Together Chicago
+Chi77 with Together Chicago <br>
 Figma protoype <https://www.figma.com/file/x2CGSQBSW6iVqwJG2pbERR/Final-Digital-Prototype>
 Repo <https://github.com/togetherchicago/chi77>
 
