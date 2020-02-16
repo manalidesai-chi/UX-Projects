@@ -1,7 +1,7 @@
 # UX-Projects
 
 Chi77 with Together Chicago <br>
-Figma protoype <https://www.figma.com/file/x2CGSQBSW6iVqwJG2pbERR/Final-Digital-Prototype>
+Figma protoype <https://www.figma.com/file/x2CGSQBSW6iVqwJG2pbERR/Final-Digital-Prototype> <br>
 Repo <https://github.com/togetherchicago/chi77>
 
 Foster Portal
